@@ -6,7 +6,7 @@
 
 ~~**原作者已停更**~~，这是 [大佬的B站](https://space.bilibili.com/153276950)
 
-![](img\model.png)
+<img src="img\model.png">
 
 ## 运行环境
 
