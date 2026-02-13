@@ -81,7 +81,7 @@ class LineTourView(tk.Frame):
             anchor='e'
         ).pack(side=tk.LEFT, padx=5)
         
-        self.flag_var = tk.IntVar(value=1)  # 1=模型, 2=图片
+        self.flag_var = tk.IntVar(value=2)  # 1=模型, 2=图片
         tk.Radiobutton(
             flag_frame,
             text="模型",
