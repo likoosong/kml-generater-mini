@@ -10,7 +10,8 @@ from view.line_tour_interface import LineTourView
 class MainApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("KML线路浏览生成器")
+        self.root.title("KML线路浏览生成器 v0.0.1")
+        self.root.iconbitmap("img/likoosong.ico")
         self.root.geometry("400x600")
         self.root.configure(bg='#f0f0f0')
         

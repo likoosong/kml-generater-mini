@@ -8,6 +8,10 @@
 
 <img src="img\model.png">
 
+## 历史版本
+- [v0.0.1](https://github.com/likoosong/kml-generater-mini/releases/tag/v0.0.1)
+
+
 ## 运行环境
 
 建议在virtualenv环境下食用......
